@@ -1,0 +1,15 @@
+# Default ignored files
+/workspace.xml
+
+#log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+#mobile tools for java (J2me)
+.mtj.tmp/
+#everything (besides the .ignore file in the .idea folder
+.idea
+
+*.iml
